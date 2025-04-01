@@ -38,8 +38,11 @@ A React-based application that allows users to manage their movie watchlist. Use
 
 ## SnapShot 
 <img src="https://github.com/poojaapatil2117/imdb-clone-React-Tailwind-Api/blob/main/imdb-clone/SnapShot/HomeMovies.png?raw=true">
+
 <img src="https://github.com/poojaapatil2117/imdb-clone-React-Tailwind-Api/blob/main/imdb-clone/SnapShot/CrossedMoviesAddedInWatchlist.png?raw=true">
+
 <img src="https://github.com/poojaapatil2117/imdb-clone-React-Tailwind-Api/blob/main/imdb-clone/SnapShot/Watchlist.png?raw=true">
+
 <img src="https://github.com/poojaapatil2117/imdb-clone-React-Tailwind-Api/blob/main/imdb-clone/SnapShot/FilterMovies.png?raw=true">
 
 ## Contribution Guidelines
